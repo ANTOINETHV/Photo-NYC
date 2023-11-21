@@ -1,0 +1,13 @@
+h1 {
+	color: red;
+	font-family: Times New Roman;
+	font-size: 50px;
+	background-color: greenyellow;
+}
+h2, h3, h4{
+
+	color: darkred;
+	font-size: 30px;
+}
+
+p, ol, ul, 
